@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #222;
+  background-color: #fafafa;
+  text-align: center;
+  line-height: 1.4em;
+}
+
+.user-stories {
+  position: relative;
+  text-align: justify;
+  max-width: 700px;
+  margin: 15px auto;
+}
